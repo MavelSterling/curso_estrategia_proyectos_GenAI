@@ -58,3 +58,26 @@ El Test de Turing, propuesto por Alan Turing en 1950, es un método para determi
 El objetivo de la máquina es hacer creer al interrogador que es humana. Si el interrogador no puede determinar con certeza quién es la máquina y quién es el humano después de un período de interrogatorio, se dice que la máquina ha pasado el Test de Turing, demostrando un nivel de inteligencia comparable, en cierta manera, al de un humano.
 
 El Test de Turing ha sido fundamental en las discusiones sobre la inteligencia artificial, aunque también ha sido objeto de críticas y variaciones a lo largo de los años. Es un concepto más filosófico y teórico que práctico, pues no mide la "inteligencia" de la máquina en un sentido humano amplio, sino más bien su capacidad para imitar la conversación humana.
+
+
+
+Tipos de Inteligencia Artificial (IA):
+
+- IA Estrecha o Débil: Realiza tareas específicas mediante algoritmos y cálculos matemáticos. Es especialista en un solo ámbito y opera bajo un conjunto limitado de condiciones.
+- IA General o Fuerte: Capaz de comprender y aprender cualquier tarea intelectual que un ser humano pueda realizar. Piensa y razona con independencia sobre una amplia gama de temas.
+- IA Súper Inteligente: Excede la capacidad cognitiva de los seres humanos en prácticamente todas las áreas, incluyendo creatividad, empatía y toma de decisiones. Potencialmente, podría actuar con una agencia propia.
+
+Programas de Inteligencia Artificial:
+
+- Sistemas Basados en Reglas: Operan bajo conjuntos de instrucciones predefinidas para realizar tareas específicas.
+Aprendizaje Automático (Machine Learning): Permite a las máquinas aprender de los datos y mejorar sus predicciones o decisiones sin estar explícitamente programadas para cada tarea.
+- Aprendizaje Profundo (Deep Learning): Una forma avanzada de machine learning que utiliza redes neuronales profundas para modelar problemas complejos y realizar tareas como el reconocimiento de voz o de imágenes.
+- IA Generativa: Capaz de crear contenido nuevo y original, desde texto hasta imágenes y música, basándose en patrones y datos aprendidos.
+
+Aplicaciones Prácticas de la IA:
+
+- Automatización: Simplifica procesos repetitivos y mejora la eficiencia operativa en diversos sectores.
+- Toma de Decisiones: Analiza grandes volúmenes de datos para ofrecer recomendaciones o tomar decisiones basadas en patrones y análisis complejos.
+- Avances en Medicina: Desde el diseño de nuevos fármacos hasta diagnósticos más precisos y personalizados.
+- Optimización de Procesos: Mejora la eficiencia en la producción y logística a través de la automatización y la inteligencia de sistemas.
+- Asistentes Virtuales: Proporcionan asistencia personalizada mediante el procesamiento de lenguaje natural y el aprendizaje automático, facilitando desde la gestión de agendas hasta el soporte al cliente.
