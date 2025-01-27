@@ -28,3 +28,18 @@ Minimizar errores en operaciones repetitivas y calculadas. En este modelo, la IA
 Utilizar la IA en tareas repetitivas y escalables para incrementar la productividad.
 Integrar criterio humano en decisiones que requieren sensibilidad emocional o contextual para garantizar resultados óptimos.
 Enriquecer la IA con retroalimentación basada en insights humanos para refinar predicciones futuras. El éxito de los proyectos depende de que los individuos comprendan claramente sus roles y cómo colaborar efectivamente con las máquinas. Las herramientas tecnológicas alcanzan su máximo potencial cuando se implementan con una comprensión clara de sus limitaciones y capacidades.
+
+En arboles de decisión: 
+
+Predicción es calcular las probabilidades de cada rama
+Juicio es calcular los efectos del resultado de cada rama
+
+
+Cuando la acción no está clara, aumentamos
+
+-> Automatizar implica codificar juicio
+	Si la situación queda fuera de lo codificado, el humano decide -> 	Argumentación
+-> AI no quita el elemento humano, permite más y más rápido
+	Mezclar velocidad y practicidad con la dosis correcta de empatía
+
+
