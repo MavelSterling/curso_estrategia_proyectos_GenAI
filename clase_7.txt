@@ -1,0 +1,73 @@
+¿Cómo seleccionar un proyecto adecuado de Gen AI para la empresa?
+
+
+## 1. Identificación de Recursos Clave para el Proyecto
+
+### a. Análisis Detallado de Capacidades y Recursos
+- **Recursos Tecnológicos:**
+  - Acceso a bases de datos.
+  - Herramientas en la nube.
+  - Capacidades de testing y validación.
+- **Recursos Humanos:**
+  - Especialistas con conocimiento profundo del problema.
+  - Usuarios clave que puedan participar en las validaciones.
+  - Clientes finales que aporten retroalimentación.
+
+### b. Verificación de Disponibilidad
+- Confirma que los recursos estén disponibles en el momento y lugar requeridos.
+- Evalúa si existen limitaciones logísticas o de agenda que puedan afectar el proyecto.
+
+### c. Elaboración de una Lista Inicial
+- **Equipos Críticos:**
+  - Identifica los grupos o departamentos fundamentales para el éxito del proyecto.
+- **Recursos Tecnológicos Escasos:**
+  - Incluye aquellos recursos que son difíciles de obtener o que tienen alta demanda.
+- **Especialistas con Carga de Trabajo Alta:**
+  - Anota aquellos expertos que podrían estar sobrecargados o que trabajan en áreas de alta demanda de información.
+
+### d. Evaluación de Brechas
+- **Identificación de Recursos Faltantes:**
+  - Detecta aquellos recursos que no están disponibles y prioriza estrategias para adquirirlos.
+- **Compromiso de Liderazgo:**
+  - Busca el apoyo y compromiso de líderes organizacionales o ejecutivos para garantizar la disponibilidad de recursos críticos.
+
+---
+
+## 2. Gestión de Riesgos y Cumplimiento de Normativas
+
+### a. Análisis de Riesgos y Normativas
+- **Listado de Riesgos Potenciales:**
+  - Problemas de propiedad intelectual.
+  - Restricciones en el acceso a datos.
+  - Incumplimiento de regulaciones específicas.
+- **Priorización:**
+  - Asigna niveles de prioridad basados en la probabilidad de ocurrencia y el impacto potencial de cada riesgo.
+
+### b. Plan de Acción para Mitigación
+- **Diseño de Estrategias:**
+  - Define acciones específicas para mitigar cada riesgo identificado.
+- **Responsabilidad y Fuentes de Información:**
+  - Asigna equipos responsables de implementar las medidas.
+  - Establece fuentes de información claras y accesibles para monitorear los riesgos.
+- **Acciones Claras:**
+  - Define pasos concretos para cerrar las brechas detectadas y garantizar el cumplimiento normativo.
+
+---
+
+## 3. Importancia del Análisis Financiero
+
+### a. Conexión entre Inversión y Beneficios Medibles
+- **Recursos Necesarios:**
+  - Lista los recursos requeridos en términos humanos, tecnológicos y de tiempo.
+- **Cálculo del Retorno:**
+  - Mide el retorno de la inversión (ROI) en términos de ahorro o ingresos adicionales.
+  - Ejemplos:
+    - **Ahorro de Tiempo:** El tiempo ahorrado en tareas específicas se puede traducir en ahorro económico basado en salarios promedio.
+    - **Reducción de Errores:** Disminuir la tasa de errores puede tener un impacto directo en la reducción de costos operativos.
+
+### b. Presentación de Resultados Financieros
+- **Enfoque en Datos Cuantificables:**
+  - Presenta los resultados y beneficios en términos financieros claros y cuantificables.
+- **Ganar Apoyo Interno:**
+  - Utiliza el análisis financiero para respaldar la inversión en el proyecto y obtener el apoyo de stakeholders y la dirección ejecutiva.
+
